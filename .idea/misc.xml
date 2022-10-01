@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/reggieDir/reggie_take_out/reggie_take_out/pom.xml" />
         <option value="$PROJECT_DIR$/reggie_take_out/pom.xml" />
+        <option value="$PROJECT_DIR$/reggie_take_out/vue2/server/pom.xml" />
+        <option value="$PROJECT_DIR$/reggie_take_out/vue2/server-action/pom.xml" />
       </list>
     </option>
   </component>

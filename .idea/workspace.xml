@@ -4,8 +4,113 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21337ebc-9a87-4f03-80b7-60e05be13bdd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/reggie_take_out/reggie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reggie_take_out/reggie.txt" afterDir="false" />
+    <list default="true" id="21337ebc-9a87-4f03-80b7-60e05be13bdd" name="Changes" comment="vue2">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/hs_err_pid109460.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/hs_err_pid80648.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/GiteeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/GithubController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/dto/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/dto/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/dto/StudentQueryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/dto/StudentUpdateDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/service/Exception401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/java/com/itheima/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/resources/com/itheima/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/src/test/java/com/itheima/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/GiteeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/GithubController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/dto/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/dto/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/dto/StudentQueryDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/dto/StudentUpdateDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/dto/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/service/Exception401.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/com/itheima/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/classes/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server-action/target/test-classes/com/itheima/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/AxiosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/Exception401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/dto/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/dto/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/dto/StudentQueryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/java/com/itheima/util/LoggerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/resources/com/itheima/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/src/test/java/com/itheima/TestFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/controller/Exception401.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/controller/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/controller/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/dto/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/dto/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/dto/StudentQueryDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/mapper/StudentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/mapper/StudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/com/itheima/util/LoggerUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/classes/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/test-classes/com/itheima/TestFuture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/vue2/server/target/test-classes/com/itheima/TestWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/reggie/dto/SetmealDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/reggie_take_out/src/main/java/com/itheima/reggie/dto/SetmealDto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +126,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f991b6e9ced1afa599ea7d77e61ca61e5ba20f97" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -29,9 +139,6 @@
         <option name="mavenHome" value="D:/software/apache-maven-3.6.3" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2FRbM6LjoGpYgrFXjNOBwd2H8ks" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,20 +153,23 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/reggieDir/reggie_take_out/reggie_take_out/pom.xml" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reggie_take_out/vue2" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.123304546" />
     <property name="project.structure.side.proportion" value="0.36568213" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\reggie_take_out\reggie_take_out\vue2" />
       <recent name="E:\ideaProject\reggie_take_out\reggieDir" />
       <recent name="E:\ideaProject\reggie_take_out\reggieDir\reggie_take_out" />
       <recent name="E:\ideaProject\reggie_take_out\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\reggie_take_out\reggie_take_out\vue2" />
       <recent name="E:\ideaProject\reggie_take_out" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -73,16 +183,17 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="reggie_take_out" />
+  <component name="RunManager" selected="Spring Boot.App (1)">
+    <configuration name="App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-action" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="reggie_take_out" />
-      <option name="filePath" />
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,6 +226,9 @@
       <workItem from="1664519761875" duration="6377000" />
       <workItem from="1664581266970" duration="6987000" />
       <workItem from="1664592113097" duration="3715000" />
+      <workItem from="1664597547390" duration="1919000" />
+      <workItem from="1664599539022" duration="1508000" />
+      <workItem from="1664601712063" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1664596992906</created>
@@ -129,8 +243,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="vue2" />
+    <option name="LAST_COMMIT_MESSAGE" value="vue2" />
   </component>
 </project>
