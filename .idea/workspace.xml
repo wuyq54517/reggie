@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21337ebc-9a87-4f03-80b7-60e05be13bdd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reggie_take_out/reggie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reggie_take_out/reggie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reggie_take_out/reggie.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +114,23 @@
       <workItem from="1664518301882" duration="8000" />
       <workItem from="1664519761875" duration="6377000" />
       <workItem from="1664581266970" duration="6987000" />
-      <workItem from="1664592113097" duration="3383000" />
+      <workItem from="1664592113097" duration="3715000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1664596992906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664596992906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
