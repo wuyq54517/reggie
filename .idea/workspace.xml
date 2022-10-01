@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21337ebc-9a87-4f03-80b7-60e05be13bdd" name="Changes" comment="" />
+    <list default="true" id="21337ebc-9a87-4f03-80b7-60e05be13bdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/reggie_take_out/reggie.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,6 +34,7 @@
     <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2FRbM6LjoGpYgrFXjNOBwd2H8ks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/reggieDir/reggie_take_out/reggie_take_out/pom.xml" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.123304546" />
     <property name="project.structure.side.proportion" value="0.36568213" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -108,7 +114,7 @@
       <workItem from="1664518301882" duration="8000" />
       <workItem from="1664519761875" duration="6377000" />
       <workItem from="1664581266970" duration="6987000" />
-      <workItem from="1664592113097" duration="2927000" />
+      <workItem from="1664592113097" duration="3383000" />
     </task>
     <servers />
   </component>
